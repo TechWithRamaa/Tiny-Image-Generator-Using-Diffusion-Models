@@ -60,7 +60,7 @@ The context tensor is structured as follows:
   - Side-Facing (1 = Yes, 0 = No)
 
 - ![Alt text](image.png)
-    
+
 ## Usage
 
 1. Clone the repository:
