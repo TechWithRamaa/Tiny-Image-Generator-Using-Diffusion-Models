@@ -1,2 +1,4 @@
 # Tiny-Image-Generator-Using-Diffusion-Models
 Building a tiny image generator based on Diffusion models and learning to speed up generation process while taking prompt or context from users
+
+implements a U-Net architecture for image denoising within the context of Diffusion Models using PyTorch. It integrates context features and time embeddings to enhance image generation, effectively learning temporal and contextual dependencies. The model comprises an initial convolutional layer, a down-sampling path, embedding layers for time and context, an up-sampling path, and a final output layer. The diffusion process utilizes a constructed noise schedule, and the sampling function iteratively refines images while visualizing the denoising progression. Overall, this implementation serves as a powerful tool for generative modeling tasks in computer vision.
