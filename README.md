@@ -45,6 +45,20 @@ To run this project, ensure you have the following libraries installed:
 ## Visualization:
 - Includes capabilities to visualize the generated samples and the denoising progression over time, providing insight into the model's performance.
 
+## Image Generation with Prompts
+
+The model allows users to generate images by providing context prompts. Users can specify different attributes in the prompts to guide the image generation process.
+
+### Prompt Format
+The context tensor is structured as follows:
+- Each row corresponds to a specific image generation prompt.
+- Each column represents a feature category:
+  - Hero (1 = Yes, 0 = No)
+  - Non-Hero (1 = Yes, 0 = No)
+  - Food (1 = Yes, 0 = No)
+  - Spell (1 = Yes, 0 = No)
+  - Side-Facing (1 = Yes, 0 = No)
+    
 ## Usage
 
 1. Clone the repository:
