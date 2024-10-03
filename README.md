@@ -14,7 +14,7 @@ The project implements a U-Net architecture for image denoising within the conte
 
 The diffusion process utilizes a constructed noise schedule, and the sampling function iteratively refines images while visualizing the denoising progression. Overall, this implementation serves as a powerful tool for generative modeling tasks in computer vision.
 
-## [Image Generation with Prompts](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Prompting_Diffusion_Model_With_Context.ipynb) (Click here)
+## [Image Generation with Prompts](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Prompting_Diffusion_Model_With_Context.ipynb) (Click on the link to view implementation details)
 
 The model allows users to generate images by providing context prompts. Users can specify different attributes in the prompts to guide the image generation process.
 
