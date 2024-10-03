@@ -19,6 +19,7 @@ The diffusion process utilizes a constructed noise schedule, and the sampling fu
 The primary implementation is found in the following Jupyter Notebook:
 
 - [Diffusion Model U-Net](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Diffusion_model_UNet.ipynb)
+- [Speeding_Up_Image_Generation](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Speeding_Up_Image_Generation.ipynb)
 
 ## Features
 
