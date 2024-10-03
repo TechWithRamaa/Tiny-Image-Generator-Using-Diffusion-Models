@@ -58,7 +58,8 @@ The context tensor is structured as follows:
   - Food (1 = Yes, 0 = No)
   - Spell (1 = Yes, 0 = No)
   - Side-Facing (1 = Yes, 0 = No)
-![Alt text](images/example_image.png)
+
+- ![Alt text](image.png)
     
 ## Usage
 
