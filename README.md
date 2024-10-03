@@ -38,6 +38,10 @@ To run this project, ensure you have the following libraries installed:
 - `tqdm`
 - Any other dependencies listed in the notebook
 
+- **Architecture**: A modified U-Net with additional context embedding layers and a perturbation function to handle noise during the denoising process.
+- **Sampling Function**: Implements the standard DDPM (Denoising Diffusion Probabilistic Models) sampling algorithm, refining generated images over multiple timesteps while injecting noise at specified levels.
+- **Visualization**: Includes capabilities to visualize the generated samples and the denoising progression over time, providing insight into the model's performance.
+
 ## Usage
 
 1. Clone the repository:
