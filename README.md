@@ -45,7 +45,7 @@ To run this project, ensure you have the following libraries installed:
 ## Visualization:
 - Includes capabilities to visualize the generated samples and the denoising progression over time, providing insight into the model's performance.
 
-## Image Generation with Prompts
+## [Image Generation with Prompts](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Prompting_Diffusion_Model_With_Context.ipynb)
 
 The model allows users to generate images by providing context prompts. Users can specify different attributes in the prompts to guide the image generation process.
 
