@@ -59,7 +59,7 @@ The context tensor is structured as follows:
   - Spell (1 = Yes, 0 = No)
   - Side-Facing (1 = Yes, 0 = No)
 
-- ![Alt text](image.png)
+![Alt text](image.png)
 
 ## Usage
 
