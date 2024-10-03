@@ -20,6 +20,7 @@ The primary implementation is found in the following Jupyter Notebook:
 
 - [Diffusion Model U-Net](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Diffusion_model_UNet.ipynb)
 - [Speeding_Up_Image_Generation](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Speeding_Up_Image_Generation.ipynb)
+- [Image Generation with Prompts](https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models/blob/main/Prompting_Diffusion_Model_With_Context.ipynb)
 
 ## Features
 
