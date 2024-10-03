@@ -43,3 +43,14 @@ To run this project, ensure you have the following libraries installed:
    ```bash
    git clone https://github.com/TechWithRamaa/Tiny-Image-Generator-Using-Diffusion-Models.git
    cd Tiny-Image-Generator-Using-Diffusion-Models
+
+2. Open the Jupyter Notebook and run the cells to train and generate images.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request to contribute to this project.
+
+## Acknowledgments
+Special thanks to DeepLearning.AI for mentorship
